@@ -10,3 +10,4 @@ say1=1
      faktorial *=say1
      say1+=1
      print(f"{say1} ! = {faktorial}")"""
+
